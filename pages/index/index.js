@@ -12,6 +12,6 @@ Page({
         demandAsOfDate: '2018年2月10日'
     },
     onLoad: function () {
-
+        "feature1 branch"
     },
 })
