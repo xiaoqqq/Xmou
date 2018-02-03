@@ -17,5 +17,8 @@ Page({
     },
     test: function () {
         // 这个是dev branch 上没有的代码块
+    },
+    feature1: function () {
+        // 新来的需求
     }
 })
