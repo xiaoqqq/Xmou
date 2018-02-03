@@ -12,7 +12,7 @@ Page({
         demandAsOfDate: '2018年11月10日'
     },
     onLoad: function () {
-        "dev commit"
+        "修改线上bug"
     },
     test: function () {
         // 这个是dev branch 上没有的代码块
