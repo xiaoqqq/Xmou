@@ -1,0 +1,39 @@
+<view class='main-content'>
+  <text>我的项目</text>
+  <view class='my-project'>
+    <!--项目名称  -->
+    <view class='project-name'>
+      <text>{{projectName}}</text>
+    </view>
+
+    <!--项目描述  -->
+    <view class='project-desc'>
+      <text>{{projectDesc}}</text>
+    </view>
+
+    <!--项目截止时间  -->
+    <view class='project-as-of-date'>
+      <text>{{projectAsOfDate}}</text>
+    </view>
+  </view>
+
+  <view class='split-line'></view>
+
+  <text>我的需求</text>
+  <view class='my-demand'>
+    <!--需求名称  -->
+    <view class='demand-name'>
+      <text>{{demandName}}</text>
+    </view>
+
+    <!--需求描述  -->
+    <view class='demand-desc'>
+      <text>{{demandDesc}}</text>
+    </view>
+
+    <!--需求完成截止时间时间  -->
+    <view class='demand-as-of-date'>
+      <text>{{demandAsOfDate}}</text>
+    </view>
+  </view>
+</view>

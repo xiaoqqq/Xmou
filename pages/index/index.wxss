@@ -1,0 +1,90 @@
+/**index.wxss**/
+
+.main-content {
+}
+
+/*我的项目模块  */
+
+.my-project {
+  width: 90%;
+  height: 100px;
+  background: #ff9800;
+  border-radius: 5px;
+  margin-left: 5%;
+  margin-top: 15px;
+  padding: 5px 0px 5px 5px;
+  margin-bottom: 20px;
+  position: relative;
+}
+
+/*项目名称  */
+
+.project-name {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/*项目描述  */
+
+.project-desc {
+  font-size: 16px;
+  position: absolute;
+  bottom: 40px;
+}
+
+/*项目截止时间  */
+
+.project-as-of-date {
+  font-size: 12px;
+  position: absolute;
+  bottom: 5px;
+  right: 15px;
+  color: #000;
+}
+
+/*我的需求模块  */
+
+.my-demand {
+  width: 90%;
+  height: 100px;
+  background: #8bc34a;
+  border-radius: 5px;
+  margin-left: 5%;
+  margin-top: 15px;
+  padding: 5px 0px 5px 5px;
+  position: relative;
+}
+
+/*需求名称  */
+
+.demand-name {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/*需求描述  */
+
+.demand-desc {
+  font-size: 16px;
+  position: absolute;
+  bottom: 40px;
+}
+
+/*需求截止日期  */
+
+.demand-as-of-date {
+  font-size: 12px;
+  position: absolute;
+  bottom: 5px;
+  right: 15px;
+  color: #000;
+}
+
+/*分割线  */
+
+.split-line {
+  width: 100%;
+  height: 1px;
+  background: blue;
+  margin-bottom: 10px;
+}
