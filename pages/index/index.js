@@ -13,6 +13,7 @@ Page({
     },
     onLoad: function () {
         "dev commit"
+        // 这里演示 -no-ff模式merge代码
     },
     test: function () {
         // 这个是dev branch 上没有的代码块
