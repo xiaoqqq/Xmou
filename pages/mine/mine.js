@@ -1,10 +1,8 @@
 Page({
-  data: {
-
-  },
-  onLoad: function () {
-    wx.setNavigationBarTitle({
-      title: '我的',
-    })
-  }
+    data: {},
+    onLoad: function () {
+        wx.setNavigationBarTitle({
+            title: '我的',
+        })
+    }
 })
