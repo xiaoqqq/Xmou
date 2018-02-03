@@ -9,9 +9,9 @@ Page({
         projectAsOfDate: '2018年3月1日',
         demandName: 'ui.chooseImage',
         demandDesc: 'V2.0支持图片多选功能',
-        demandAsOfDate: '2018年3月10日'
+        demandAsOfDate: '2018年4月10日'
     },
     onLoad: function () {
-        
+        "dev commit"
     },
 })
