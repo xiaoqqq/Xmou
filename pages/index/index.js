@@ -13,6 +13,6 @@ Page({
     },
     onLoad: function () {
         "master branch"
-        "这是我在dev 分支上开发的 新代码"
+        "master 上加的代码！！！"
     },
 })
