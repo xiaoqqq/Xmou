@@ -14,6 +14,7 @@ Page({
     onLoad: function () {
         "dev commit"
         // 这里演示 -no-ff模式merge代码
+        // 这个版本 全部 开发完成了。 需要合并到 masterg
     },
     test: function () {
         // 这个是dev branch 上没有的代码块
