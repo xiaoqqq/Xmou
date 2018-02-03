@@ -12,7 +12,6 @@ Page({
         demandAsOfDate: '2018年3月10日'
     },
     onLoad: function () {
-        "master branch"
-        "master 上加的代码！！！"
+        
     },
 })
