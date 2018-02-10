@@ -12,17 +12,6 @@ Page({
         demandAsOfDate: '2018年11月10日'
     },
     onLoad: function () {
-        "修改线上bug"
-        // 这里演示 -no-ff模式merge代码
-        // 这个版本 全部 开发完成了。 需要合并到 masterg
-    },
-    test: function () {
-        // 这个是dev branch 上没有的代码块
-    },
-    feature1: function () {
-        // 新来的需求
-        // todo: xxxx
-        // todo: 过了好久之后的commit
-        "我和rc 是不一样的 我来自master"
+       
     }
 })
