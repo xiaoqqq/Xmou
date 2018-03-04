@@ -12,9 +12,14 @@ Page({
         demandAsOfDate: '2018年11月10日'
     },
     onLoad: function () {
-       
-    }
+
+    },
     // todo: 测试！！ 添加开发者
     // todo: 提交到develop 分支 devdevedevedevdev
     // dafafasdf
+
+    test: function () {
+        // test
+    }
+
 })
