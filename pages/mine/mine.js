@@ -4,5 +4,8 @@ Page({
         wx.setNavigationBarTitle({
             title: '我的',
         })
+    },
+    fixbug: function () {
+        // fix bug....
     }
 })
