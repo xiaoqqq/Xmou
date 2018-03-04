@@ -18,6 +18,11 @@ Page({
     // todo: 提交到develop 分支 devdevedevedevdev
     // dafafasdf
 
-    // test
+
+    test: function () {
+        // test
+        // 280changed
+
+    }
 
 })
