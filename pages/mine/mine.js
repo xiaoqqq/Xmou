@@ -7,5 +7,10 @@ Page({
     },
     fixbug: function () {
         // fix bug....
+    },
+    dev: function () {
+        // dev 分支上 进行开发。。。
+        // ....
+        // complete
     }
 })
